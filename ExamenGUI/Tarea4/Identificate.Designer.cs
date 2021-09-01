@@ -30,13 +30,13 @@ namespace Tarea4
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.txtNoControl = new System.Windows.Forms.TextBox();
+            this.txtApeliidoMaterno = new System.Windows.Forms.TextBox();
+            this.txtApellidoPaterno = new System.Windows.Forms.TextBox();
+            this.txtNombre = new System.Windows.Forms.TextBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.txtNombre = new System.Windows.Forms.TextBox();
-            this.txtApellidoPaterno = new System.Windows.Forms.TextBox();
-            this.txtApeliidoMaterno = new System.Windows.Forms.TextBox();
-            this.txtNoControl = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -58,6 +58,38 @@ namespace Tarea4
             this.panel1.Size = new System.Drawing.Size(802, 451);
             this.panel1.TabIndex = 0;
             // 
+            // txtNoControl
+            // 
+            this.txtNoControl.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtNoControl.Location = new System.Drawing.Point(172, 320);
+            this.txtNoControl.Name = "txtNoControl";
+            this.txtNoControl.Size = new System.Drawing.Size(228, 13);
+            this.txtNoControl.TabIndex = 6;
+            // 
+            // txtApeliidoMaterno
+            // 
+            this.txtApeliidoMaterno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtApeliidoMaterno.Location = new System.Drawing.Point(172, 250);
+            this.txtApeliidoMaterno.Name = "txtApeliidoMaterno";
+            this.txtApeliidoMaterno.Size = new System.Drawing.Size(228, 13);
+            this.txtApeliidoMaterno.TabIndex = 5;
+            // 
+            // txtApellidoPaterno
+            // 
+            this.txtApellidoPaterno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtApellidoPaterno.Location = new System.Drawing.Point(172, 187);
+            this.txtApellidoPaterno.Name = "txtApellidoPaterno";
+            this.txtApellidoPaterno.Size = new System.Drawing.Size(228, 13);
+            this.txtApellidoPaterno.TabIndex = 4;
+            // 
+            // txtNombre
+            // 
+            this.txtNombre.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtNombre.Location = new System.Drawing.Point(172, 126);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(228, 13);
+            this.txtNombre.TabIndex = 3;
+            // 
             // pictureBox3
             // 
             this.pictureBox3.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -67,6 +99,7 @@ namespace Tarea4
             this.pictureBox3.Size = new System.Drawing.Size(157, 46);
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
+            this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
             // 
             // pictureBox2
             // 
@@ -77,6 +110,7 @@ namespace Tarea4
             this.pictureBox2.Size = new System.Drawing.Size(156, 46);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // pictureBox1
             // 
@@ -86,38 +120,6 @@ namespace Tarea4
             this.pictureBox1.Size = new System.Drawing.Size(251, 311);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            // 
-            // txtNombre
-            // 
-            this.txtNombre.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtNombre.Location = new System.Drawing.Point(172, 126);
-            this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(228, 13);
-            this.txtNombre.TabIndex = 3;
-            // 
-            // txtApellidoPaterno
-            // 
-            this.txtApellidoPaterno.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtApellidoPaterno.Location = new System.Drawing.Point(172, 187);
-            this.txtApellidoPaterno.Name = "txtApellidoPaterno";
-            this.txtApellidoPaterno.Size = new System.Drawing.Size(228, 13);
-            this.txtApellidoPaterno.TabIndex = 4;
-            // 
-            // txtApeliidoMaterno
-            // 
-            this.txtApeliidoMaterno.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtApeliidoMaterno.Location = new System.Drawing.Point(172, 250);
-            this.txtApeliidoMaterno.Name = "txtApeliidoMaterno";
-            this.txtApeliidoMaterno.Size = new System.Drawing.Size(228, 13);
-            this.txtApeliidoMaterno.TabIndex = 5;
-            // 
-            // txtNoControl
-            // 
-            this.txtNoControl.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtNoControl.Location = new System.Drawing.Point(172, 320);
-            this.txtNoControl.Name = "txtNoControl";
-            this.txtNoControl.Size = new System.Drawing.Size(228, 13);
-            this.txtNoControl.TabIndex = 6;
             // 
             // Identificate
             // 

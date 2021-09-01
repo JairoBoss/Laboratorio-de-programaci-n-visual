@@ -42,12 +42,22 @@ namespace Tarea4
 
         private void btnResponderCuestionario_Click(object sender, EventArgs e)
         {
-            AbrirFormEnPanel(new Identificate());
+            AbrirFormEnPanel(new ResponderCuestionario());
         }
 
         private void btnHome_Click(object sender, EventArgs e)
         {
             this.panelContenedor.Controls.RemoveAt(0);
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            AbrirFormEnPanel(new Identificate());
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

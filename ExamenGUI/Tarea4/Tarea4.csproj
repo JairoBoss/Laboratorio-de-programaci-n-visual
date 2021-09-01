@@ -52,6 +52,11 @@
     <Compile Include="AñadirPregunta.Designer.cs">
       <DependentUpon>AñadirPregunta.cs</DependentUpon>
     </Compile>
+    <Compile Include="Clases\Cuestionario.cs" />
+    <Compile Include="Clases\Estudiante.cs" />
+    <Compile Include="Clases\Persona.cs" />
+    <Compile Include="Clases\Pregunta.cs" />
+    <Compile Include="Clases\Respuesta.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -148,6 +153,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Ingresar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siguiente.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
