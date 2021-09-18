@@ -16,7 +16,6 @@ namespace Tarea4
     {
 
         private List<Pregunta> preguntas;
-
         static String dir = Directory.GetCurrentDirectory();
         String serializationFile = Path.Combine(dir, "Preguntas.bin");
 

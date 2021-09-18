@@ -63,6 +63,36 @@ namespace Tarea4.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Abrir {
+            get {
+                object obj = ResourceManager.GetObject("Abrir", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Abrir1 {
+            get {
+                object obj = ResourceManager.GetObject("Abrir1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Abrir2 {
+            get {
+                object obj = ResourceManager.GetObject("Abrir2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Agregar {
             get {
                 object obj = ResourceManager.GetObject("Agregar", resourceCulture);
@@ -163,6 +193,36 @@ namespace Tarea4.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap impoortar {
+            get {
+                object obj = ResourceManager.GetObject("impoortar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap impoortar1 {
+            get {
+                object obj = ResourceManager.GetObject("impoortar1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Importar {
+            get {
+                object obj = ResourceManager.GetObject("Importar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Ingresar {
             get {
                 object obj = ResourceManager.GetObject("Ingresar", resourceCulture);
@@ -226,6 +286,16 @@ namespace Tarea4.Properties {
         internal static System.Drawing.Bitmap ULSALogo_1 {
             get {
                 object obj = ResourceManager.GetObject("ULSALogo 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VerPreguntas {
+            get {
+                object obj = ResourceManager.GetObject("VerPreguntas", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -59,5 +59,20 @@ namespace Tarea4
         {
             this.Close();
         }
+
+        private void panelContenedor_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            AbrirFormEnPanel(new ImportarExcel());
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            AbrirFormEnPanel(new VerPreguntas());
+        }
     }
 }

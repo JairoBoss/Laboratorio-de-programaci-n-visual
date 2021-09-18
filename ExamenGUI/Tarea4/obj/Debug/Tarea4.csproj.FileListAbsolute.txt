@@ -24,3 +24,26 @@ C:\Users\jairo\Desktop\Visual\Laboratorio-de-programacion-visual\ExamenGUI\Tarea
 C:\Users\jairo\Desktop\Visual\Laboratorio-de-programacion-visual\ExamenGUI\Tarea4\obj\Debug\Tarea4.csproj.CoreCompileInputs.cache
 C:\Users\jairo\Desktop\Visual\Laboratorio-de-programacion-visual\ExamenGUI\Tarea4\obj\Debug\Tarea4.exe
 C:\Users\jairo\Desktop\Visual\Laboratorio-de-programacion-visual\ExamenGUI\Tarea4\obj\Debug\Tarea4.pdb
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\bin\Debug\Tarea4.exe.config
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\bin\Debug\Tarea4.exe
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\bin\Debug\Tarea4.pdb
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.csproj.AssemblyReference.cache
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.AñadirPregunta.resources
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.Form1.resources
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.Identificate.resources
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.ImportarExcel.resources
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.Properties.Resources.resources
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.ResponderCuestionario.resources
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.csproj.GenerateResource.cache
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.csproj.CoreCompileInputs.cache
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.exe
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.pdb
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\bin\Debug\SpreadsheetLight.dll
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\bin\Debug\System.Drawing.Common.dll
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\bin\Debug\System.IO.Packaging.dll
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\bin\Debug\SpreadsheetLight.xml
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\bin\Debug\System.IO.Packaging.xml
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.csproj.CopyComplete
+C:\Users\jairo\Desktop\5 Semestre\Visual\Laboratorio-de-programacion-visual-main\ExamenGUI\Tarea4\obj\Debug\Tarea4.VerPreguntas.resources
